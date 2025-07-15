@@ -13,7 +13,7 @@ export default function MouseGradient() {
   }, []);
 
   const backgroundStyle = {
-    backgroundColor: 'rgb(18 10 47)',
+    backgroundColor: 'rgb(29 78 216 / 15%)',
     backgroundImage: `radial-gradient(600px circle at ${coords.x}px ${coords.y}px, rgba(29, 78, 216, 0.15), transparent 80%)`,
     transition: 'background 0.2s ease',
   };
