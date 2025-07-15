@@ -20,14 +20,16 @@ export default function Home() {
     <div className="overflow-y-auto h-screen scroll-smooth md:p-8 space-y-32">
       <section id="about" className="pt-8 min-h-[100vh]">
   <h2 className="text-3xl font-bold mb-4">About</h2>
+  
   <p className="text-lg leading-relaxed text-gray-300 space-y-4">
-    I'm a full-stack engineer with a strong bias for clean architecture, fast performance, and building things that don’t break at scale. Over the last 5+ years, I've worn multiple hats — leading feature-rich frontend builds, crafting APIs that don't cry under pressure, and automating deployments across cloud platforms like Azure and AWS.
+  
+    I&apos;m a full-stack engineer with a strong bias for clean architecture, fast performance, and building things that don&apos;t break at scale. Over the last 5+ years, I&apos;ve worn multiple hats — leading feature-rich frontend builds, crafting APIs that don&apos;t cry under pressure, and automating deployments across cloud platforms like Azure and AWS.
     <br /><br />
-    I’ve built pharmacist-facing platforms used by millions, reindexed massive datasets on Elasticsearch with scheduled cron jobs, and deployed apps in containers running on EKS and AKS — all while keeping things clean, testable, and actually enjoyable to work with. Whether it’s React, Next.js, Spring Boot, Node.js, or some DevOps chaos involving CI/CD pipelines, I’m the person who enjoys diving deep and getting things shipped.
+    I&apos;ve built pharmacist-facing platforms used by millions, reindexed massive datasets on Elasticsearch with scheduled cron jobs, and deployed apps in containers running on EKS and AKS — all while keeping things clean, testable, and actually enjoyable to work with. Whether it&apos;s React, Next.js, Spring Boot, Node.js, or some DevOps chaos involving CI/CD pipelines, I&apos;m the person who enjoys diving deep and getting things shipped.
     <br /><br />
-    I believe great software is not just about code — it’s about ownership, communication, and never losing sight of the user experience. I’ve mentored teammates, refactored legacy nightmares, optimized data pipelines, and even debugged production issues at ungodly hours (coffee helps).
+    I believe great software is not just about code — it&apos;s about ownership, communication, and never losing sight of the user experience. I&apos;ve mentored teammates, refactored legacy nightmares, optimized data pipelines, and even debugged production issues at ungodly hours (coffee helps).
     <br /><br />
-    Outside of work, I like to stay curious — whether that’s trying new tools, contributing to internal knowledge sharing, or just exploring better ways to write scalable, maintainable code. TL;DR: I build cool stuff that works well and scales better.
+    Outside of work, I like to stay curious — whether that&apos;s trying new tools, contributing to internal knowledge sharing, or just exploring better ways to write scalable, maintainable code. TL;DR: I build cool stuff that works well and scales better.
   </p>
 </section>
 
