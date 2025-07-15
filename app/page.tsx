@@ -10,7 +10,7 @@ export default function Home() {
       {/* LEFT NAVIGATION COLUMN */}
       <div className="p-4 sticky top-0 h-fit md:h-screen flex flex-row md:flex-col gap-4 backdrop-blur-sm md:backdrop-blur-none">
         <div className="py-24">
-        <h1 className="text-4xl font-bold tracking-tight text-slate-200 sm:text-5xl"><a href="/">Sukhleen Kaur</a></h1>
+        <h1 className="text-4xl font-bold tracking-tight text-slate-200 sm:text-5xl">Sukhleen Kaur</h1>
           <h2 className="mt-3 text-lg font-medium tracking-tight text-slate-200 sm:text-xl">
             Full Stack Engineer
           </h2>
