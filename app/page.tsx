@@ -241,7 +241,7 @@ export default function Home() {
                 </h2>
               </div>
 
-            <p className="text-lg text-gray-300 mt-4 leading-normal space-y-4">
+            <p className="mt-4 leading-normal space-y-4">
             I&apos;m a full-stack engineer with a strong bias for clean
             architecture, fast performance, and building things that don&apos;t
             break at scale. Over the last 5+ years, I&apos;ve worn multiple hats
@@ -306,7 +306,6 @@ export default function Home() {
                             <span>{`${item.title} `}</span>
                               <span className="inline-block">
                                 {item.company}
-
                                 <svg
                                   xmlns="http://www.w3.org/2000/svg"
                                   viewBox="0 0 20 20"
